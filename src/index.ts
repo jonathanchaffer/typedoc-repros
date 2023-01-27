@@ -1,4 +1,6 @@
 /**
- * Some code reproducing a bug.
+ * Should be documented.
  */
-export const bug = 123;
+export const foo = (bar: string): boolean => {
+  return true;
+};
